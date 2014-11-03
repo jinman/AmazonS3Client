@@ -1,0 +1,7 @@
+{
+    "name": "AmazonS3Client",
+    "version": "0.0.1",
+    "author": "Jinesh Varia <jvaria@amazon.com>",
+    "license": "Apache 2.0 license",
+    "description": "Amazon S3 Client for Spark Core."
+}
